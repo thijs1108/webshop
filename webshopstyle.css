@@ -1,0 +1,57 @@
+body{
+    margin: 50px calc(10% - 20px);
+}
+#top{
+    background-color: lightblue;
+    padding: 10px;
+    min-width: 300px;
+    min-height: 100px;
+}
+#login{
+    margin: 20px auto;
+}
+#ad{
+    background-color: navy;
+    width: 100%;
+    bottom: 0px;
+    height:100px;
+}
+#text{
+    background-color: lightgreen;
+    min-height: 800px;
+    min-width: 320px
+}
+#logo img{
+	width: 250px;
+	height: 50px;
+}
+
+@media screen and (min-width: 1200px) {
+#content{
+    float: left;
+    width: calc(100% - 200px)
+}
+#ad{
+    float: right;
+    background-color: navy;
+    width: 200px;
+    height: 800px;
+    top:0px;
+    right:0px;
+}
+#logo{
+    float: left;
+}
+#login{
+    float: right;
+    margin-top: 0;
+    margin-right: 50px;
+    margin-left: 0px;
+}
+#logo img{
+	width: 500px;
+	height: 100px;
+}
+
+}
+
