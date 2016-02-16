@@ -2,7 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="webshopstyle.css">
-        <title>Thijs' Webshop</title>
+        <title>Thijs' Webshop jeuj</title>
     </head>
     <body>
         <div id="content">
